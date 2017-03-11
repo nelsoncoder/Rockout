@@ -1,0 +1,22 @@
+{
+  "name": "rockout",
+  "description": "PHP MVC Engine",
+  "main": "gulpfile.js",
+  "authors": [
+    "https://github.com/nelsoncoder"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "PHP",
+    "MVC",
+    "mini-framework"
+  ],
+  "homepage": "https://github.com/nelsoncoder/Rockout",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "roboto-and-material-icons-fonts": "^1.1.0",
+    "glyphicons": "^0.0.2",
+    "jquery": "~1.11.3",
+    "Ionicons": "ionicons#^2.0.1"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules
+bower_components
+App/Output/fonts/MaterialIcons-Regular.*
+App/Output/fonts/fontawesome-webfont.*
+App/Output/fonts/FontAwesome.otf
+App/Output/fonts/glyphicons-halflings-regular.*
+App/Output/fonts/ionicons.*

@@ -1,0 +1,35 @@
+{
+  "name": "rockout",
+  "version": "1.0.0",
+  "description": "PHP MVC Engine",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-concat": "^2.6.1",
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.1.0",
+    "gulp-util": "^3.0.8",
+    "mdi": "^1.8.36",
+    "browser-sync": "^2.18.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nelsoncoder/Rockout.git"
+  },
+  "keywords": [
+    "PHP",
+    "MVC",
+    "mini-framework"
+  ],
+  "author": "https://github.com/nelsoncoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsoncoder/Rockout/issues"
+  },
+  "homepage": "https://github.com/nelsoncoder/Rockout#readme"
+}
