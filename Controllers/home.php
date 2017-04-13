@@ -6,8 +6,12 @@ class home extends Views
 
 	public function index()
 	{
-		$title = 'home';
-		$this->view('home', compact('title'));
+		$params = [
+			'title' => 'home',
+			'description' => 'assa'
+		];
+
+		$this->view('home', compact('params'));
 	}
 
 }
